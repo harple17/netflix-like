@@ -1,3 +1,11 @@
+# netflix-like
+This is a Netflix-like web app made with react.
+
+## Reference
+
+[Tutorial of making a clone website of Netflix with Typescript+React(Jp)](https://zenn.dev/gunners6518/books/4c4672f32dd100)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
